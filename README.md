@@ -1,2 +1,2 @@
-# WhatToRead_v3
-CITC_2375_ISD Project Update
+# WhatToRead_v2
+Book recommendation website with working login and registration + quiz
