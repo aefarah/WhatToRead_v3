@@ -13,7 +13,7 @@
 .row .column a img	{	height: 300px;
 						width:	200px;	}
 						
-a:hover 		{ 	opacity: 0.3;}	
+.row .column a:hover 		{ 	opacity: 0.3;}	
 
 
 .textandtable	{	text-align: center;	}

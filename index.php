@@ -6,7 +6,7 @@
 <head>
   <title>What To Read</title>
   <meta charset="UTF-8">
-  <meta name="author" content="Annette Farrah, Mihaela McReynolds">
+  <meta name="author" content="Annette Farah, Mihaela McReynolds">
   <meta name="description" content="What To Read-group project for Internet Software Development class at PSTCC. Team: Annette Farah, Mihaela McReynolds">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -104,24 +104,24 @@
         </h5><hr>
         <div class="border border-warning" id = "quiz">
           <!-- Quiz options in a grid of pictures -->
-          <div class="row">
-            <div class="column">
-              <a href="selection_01.php"><img id = "martian" src="images/martian.jpg" alt="Martian Book Cover"></a>
-              <a href="selection_01.php"><img id = "gatsby" src="images/gatsby.jpg" alt="Gatsby Book Cover"></a>
-            </div>
-            <div class="column">
-              <a href="selection_01.php"><img id = "homegoing" src="images/homegoing.jpg" alt="Homegoing Book Cover"></a>
-              <a href="selection_01.php"><img id = "hp1" src="images/hp1.jpg" alt="Harry Potter Book Cover"></a>
-            </div>
-            <div class="column">
-              <a href="selection_01.php"><img id= "malaria" src="images/malaria.jpg" alt="Malaria Book Cover"></a>
-              <a href="selection_01.php"><img id = "dracula" src="images/dracula.jpg" alt="Dracula Book Cover"></a>
-            </div>
-            <div class="column">
-              <a href="selection_01.php"><img id = "set" src="images/set.jpg" alt="Set Book Cover"></a>
-              <a href="selection_01.php"><img id = "mothergoose" src="images/mothergoose.jpg" alt="Mothergoose Book Cover"></a>
-            </div>
-          </div>
+		  <div class="row">
+			<div class="column">
+			  <a href="selection_01.php"><img id = "martian" src="images/martian.jpg" alt="Martian Book Cover"></a>
+			  <a href="selection_01.php"><img id = "gatsby" src="images/gatsby.jpg" alt="Gatsby Book Cover"></a>
+			</div>
+			<div class="column">
+			  <a href="selection_01.php"><img id = "homegoing" src="images/homegoing.jpg" alt="Homegoing Book Cover"></a>
+			  <a href="selection_01.php"><img id = "hp1" src="images/hp1.jpg" alt="Harry Potter Book Cover"></a>
+			</div>
+			<div class="column">
+			  <a href="selection_01.php"><img id= "malaria" src="images/malaria.jpg" alt="Malaria Book Cover"></a>
+			  <a href="selection_01.php"><img id = "dracula" src="images/dracula.jpg" alt="Dracula Book Cover"></a>
+			</div>
+			<div class="column">
+			  <a href="selection_01.php"><img id = "set" src="images/set.jpg" alt="Set Book Cover"></a>
+			  <a href="selection_01.php"><img id = "mothergoose" src="images/mothergoose.jpg" alt="Mothergoose Book Cover"></a>
+			</div>
+		  </div>
         </div>
       </div>
       <!-- Book of the Month -->

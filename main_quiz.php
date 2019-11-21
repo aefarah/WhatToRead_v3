@@ -6,7 +6,7 @@ session_start();
 <head>
   <title>What To Read</title>
   <meta charset="UTF-8">
-    <meta name="author" content="Annette Farrah, Mihaela McReynolds">
+    <meta name="author" content="Annette Farah, Mihaela McReynolds">
     <meta name="description" content="What To Read-group project for Internet Software Development class at PSTCC. Team: Annette Farah, Mihaela McReynolds">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">

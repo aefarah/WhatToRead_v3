@@ -99,11 +99,11 @@
 							<!-- Quiz options in a grid of pictures -->
 							<div class="row">
 								<div class="column">
-									<a href="selection_02.php"><img id = "hobbit" src="images/hobbit.jpg" alt="Hobbit Book Cover"></a>
+									<a href="selection_02.php"><img id = "hobbit" src="images/hobbit.png" alt="Hobbit Book Cover"></a>
 									<a href="selection_02.php"><img id = "acryingshame" src="images/acryingshame.png" alt="A Crying ShameBook Cover"></a>
 								</div>
 								<div class="column">
-									<a href="selection_02.php"><img id = "allegiant" src="images/allegiant.jpg" alt="Allegiant Book Cover"></a>
+									<a href="selection_02.php"><img id = "allegiant" src="images/allegiant.png" alt="Allegiant Book Cover"></a>
 									<a href="selection_02.php"><img id = "asylum" src="images/asylum.png" alt="Asylum Book Cover"></a>
 								</div>
 								<div class="column">
